@@ -179,7 +179,7 @@
 	<!--正文内容部分END-->
 	<!-- footer部分 -->
 	<footer>
-		© 2021 Powered by <a target = "_blank" href="https://github.com/helloxz/onenav" title = "简约导航/书签管理器" rel = "nofollow">OneNav</a>.The author is <a href="https://www.xiaoz.me/" target="_blank" title = "小z博客">xiaoz.me</a>
+		© 2021 Powered by <a target = "_blank" href="https://github.com/helloxz/onenav" title = "简约导航/书签管理器" rel = "nofollow">OneNav</a>
 	</footer>
 	<!-- footerend -->
 </body>
